@@ -7,7 +7,7 @@
 -- @Version: 1.0.0
 -- 
 -- @Contact: https://www.reddit.com/message/compose/?to=Nayoo
--- @Support: http://mcompany-info.de/
+-- @Support: https://github.com/NayooZ/FS17_MoreControls/issues
 
 MoreControls = {}
 
