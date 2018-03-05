@@ -6,8 +6,8 @@
 -- @Date: 05.03.2018
 -- @Version: 1.0.0
 -- 
--- @Support: https://www.reddit.com/message/compose/?to=Nayoo
--- 
+-- @Contact: https://www.reddit.com/message/compose/?to=Nayoo
+-- @Support: http://mcompany-info.de/
 
 MoreControls = {}
 
