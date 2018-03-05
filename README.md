@@ -13,4 +13,4 @@ More Help Buttons for FS17
 
 	`<specialization name="morecontrols"/>`
 
-4. Edit MoreControls.lua to suit the controls you wish to add - you will need to adjust the whitespace to line up onscreen
+4. Edit `MoreControls.lua` to suit the controls you wish to add - you will need to adjust the whitespace to line up onscreen
